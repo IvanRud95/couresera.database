@@ -1,4 +1,4 @@
-require_relative "alalyze.rb"
+require_relative "alalyse.rb"
 
 solution = Solution.new
 
