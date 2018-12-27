@@ -1,4 +1,4 @@
-require_relative "solving_script"
+require_relative "alalyze.rb"
 
 solution = Solution.new
 
