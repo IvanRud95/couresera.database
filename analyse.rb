@@ -21,9 +21,7 @@ end
 
 class Solution
   include Enumerable
-  # Implement the following read-only attributes in the Solution class.
-  #* highest_count_across_lines - a number with the value of the highest frequency of a word
-  #* highest_count_words_across_lines - an array with the words with the highest frequency
+
   attr_accessor :highest_count_across_lines, :highest_count_words_across_lines, :analyzers
 
   def initialize
